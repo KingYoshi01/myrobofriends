@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Super Mario DS Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Super Mario DS Regular'), url('SuperMarioDs.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Super Mario DS Regular';
+  font-weight: 200;
+  color: #0ccac4;
+}
+  
